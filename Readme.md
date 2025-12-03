@@ -10,7 +10,7 @@
   
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
-I executed a comprehensive HR data analysis, creating reports on **Workforce Metrics** (hiring, location), **Demographics** (gender, age, education, performance correlation), and **Income Analysis** (salary comparison by education and age/department correlation).
+I executed a comprehensive HR data analysis, creating reports on Workforce Metrics (hiring, location), Demographics (gender, age, education, performance correlation), and Income Analysis (salary comparison by education and age/department correlation).
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
