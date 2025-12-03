@@ -15,7 +15,7 @@ I executed a comprehensive HR data analysis, creating reports on **Workforce Met
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - Excel and CSV file located in `/data/` folder
-- Summary table created from ingested data and used for analysis
+- Used python script to grnerate dataset.
   
 ---
 <h2><a class="anchor" id="tools_technologies"></a>Tools & Technologies</h2>
