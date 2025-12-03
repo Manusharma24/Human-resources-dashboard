@@ -27,8 +27,13 @@ I executed a comprehensive HR data analysis, creating reports on Workforce Metri
 ---
 <h2><a class="anchor" id="project"></a>Dashbord</h2>
 
+**Overview Dashboard**
+
 ![image alt](https://github.com/Manusharma24/Human-resources-dashboard/blob/3945194af1e2f7f755f96e8f00a81fc16a7a86b1/HR%20Summary.png)
 
+**Details Dashboard**
+
+![image alt](https://github.com/Manusharma24/Human-resources-dashboard/blob/b37f7d578f29cd5d4ca050774f11fccb8fafdde0/HR%20Details.png)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Contact</h2>
