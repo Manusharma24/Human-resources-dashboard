@@ -26,7 +26,7 @@ I executed a comprehensive HR data analysis, creating reports on Workforce Metri
 
 ---
 <h2><a class="anchor" id="project"></a>Dashbord</h2>
-
+file:///C:/Users/b2xbt/OneDrive/tablue/HR%20PROJECT%20TABLEAU/HR%20Summary.png
 
 
 ---
