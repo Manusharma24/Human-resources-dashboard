@@ -14,7 +14,7 @@ I executed a comprehensive HR data analysis, creating reports on Workforce Metri
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Excel and CSV file located in `/data/` folder
+- CSV file located in `/data/` folder
 - Used python script to grnerate dataset.
   
 ---
