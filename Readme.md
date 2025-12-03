@@ -1,4 +1,4 @@
-# World Population EDA
+# Human Resources Dashboard
 
 ---
 ## Table of Contents
